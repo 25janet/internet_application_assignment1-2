@@ -3,7 +3,7 @@ session_start(); // Start the session
 
 $servername = "localhost"; 
 $username = "root"; // Change if needed
-$password = "cdcb"; // Change if needed
+$password = ""; // Change if needed
 $dbname = "users"; 
 
 // Create connection
